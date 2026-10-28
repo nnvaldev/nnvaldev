@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0e7490,100:14b8a6&height=200&section=header&text=Alexander%20Castillo&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20%26%20Cloud%20Engineer%20%C2%B7%20La%20Paz%2C%20Bolivia&descAlignY=58&descSize=18" alt="Alexander Castillo — Fullstack & Cloud Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0e7490,100:14b8a6&height=200&section=header&text=Alexander%20Castillo&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20y%20Cloud%20Engineer%20%C2%B7%20La%20Paz%2C%20Bolivia&descAlignY=58&descSize=18" alt="Alexander Castillo — Fullstack & Cloud Engineer" width="100%" />
 
 <a href="https://github.com/nnvaldev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=620&lines=Backend+%C2%B7+Python+%2F+FastAPI+%C2%B7+Laravel;Frontend+%C2%B7+React+%C2%B7+Vue+%C2%B7+TypeScript;Cloud+%26+DevOps+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+Terraform;Mobile+%C2%B7+Flutter+(App+Store+%26+Google+Play)" alt="Backend · Frontend · Cloud & DevOps · Mobile" />
